@@ -36,7 +36,6 @@ logs/
 output/
 src/
 templates/
-tests/
 
 AI_USAGE.md
 .gitignore
