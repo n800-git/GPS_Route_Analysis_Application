@@ -1,0 +1,95 @@
+2026-07-03 02:36:44,849 | INFO     | Logger unit test.
+2026-07-03 03:16:11,303 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:16:11,379 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:16:11,380 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:16:11,435 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:16:11,436 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:16:11,516 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:44:30,810 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:44:30,893 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:44:30,893 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:44:30,937 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:44:30,938 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:44:31,008 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:46:31,857 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:46:31,933 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:46:31,934 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:46:31,978 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:46:31,979 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:46:32,048 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:49:23,327 | INFO     | Integration test completed: Dataset_A_Clean_GPS
+2026-07-03 03:49:23,369 | INFO     | Integration test completed: Dataset_B_Medium_GPS
+2026-07-03 03:49:23,437 | INFO     | Integration test completed: Dataset_C_Advanced_GPS
+2026-07-03 03:52:37,975 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:52:38,051 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 03:52:38,052 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:52:38,095 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 03:52:38,096 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 03:52:38,166 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 04:05:10,431 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 04:05:10,509 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 04:05:10,510 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 04:05:10,555 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 04:05:10,556 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 04:05:10,635 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 04:08:35,698 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 04:08:35,775 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 04:08:35,776 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 04:08:35,820 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 04:08:35,820 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 04:08:35,890 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 04:28:10,689 | INFO     | Integration test completed: Dataset_A_Clean_GPS
+2026-07-03 04:28:10,785 | INFO     | Integration test completed: Dataset_B_Medium_GPS
+2026-07-03 04:28:10,947 | INFO     | Integration test completed: Dataset_C_Advanced_GPS
+2026-07-03 04:28:10,948 | INFO     | Logger unit test.
+2026-07-03 04:28:44,085 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 04:28:44,272 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 04:28:44,273 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 04:28:44,376 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 04:28:44,377 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 04:28:44,544 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 17:33:09,137 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 17:33:09,236 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 17:33:09,237 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 17:33:09,301 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 17:33:09,302 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 17:33:09,381 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 22:55:03,074 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 22:55:03,270 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 22:55:03,271 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 22:55:03,375 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 22:55:03,376 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 22:55:03,538 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 22:55:03,539 | INFO     | Application finished successfully. Datasets processed: 3
+2026-07-03 23:01:31,192 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:01:31,380 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:01:31,381 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:01:31,485 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:01:31,486 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:01:31,645 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:01:31,646 | INFO     | Application finished successfully. Datasets processed: 3
+2026-07-03 23:04:28,320 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:04:28,510 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:04:28,511 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:04:28,617 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:04:28,618 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:04:28,781 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:04:28,782 | INFO     | Application finished successfully. Datasets processed: 3
+2026-07-03 23:06:43,016 | INFO     | Integration test completed: Dataset_A_Clean_GPS
+2026-07-03 23:06:43,118 | INFO     | Integration test completed: Dataset_B_Medium_GPS
+2026-07-03 23:06:43,278 | INFO     | Integration test completed: Dataset_C_Advanced_GPS
+2026-07-03 23:06:43,280 | INFO     | Logger unit test.
+2026-07-03 23:07:31,476 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:07:31,648 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:07:31,649 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:07:31,749 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:07:31,750 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:07:31,999 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:07:32,001 | INFO     | Application finished successfully. Datasets processed: 3
+2026-07-03 23:37:19,620 | INFO     | Processing dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:37:19,789 | INFO     | Finished dataset: Dataset_A_Clean_GPS.csv
+2026-07-03 23:37:19,790 | INFO     | Processing dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:37:19,898 | INFO     | Finished dataset: Dataset_B_Medium_GPS.csv
+2026-07-03 23:37:19,899 | INFO     | Processing dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:37:20,103 | INFO     | Finished dataset: Dataset_C_Advanced_GPS.csv
+2026-07-03 23:37:20,106 | INFO     | Application finished successfully. Datasets processed: 3
