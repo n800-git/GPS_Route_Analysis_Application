@@ -1,0 +1,8 @@
+[project]
+name = "gps-route-analysis"
+version = "1.0.0"
+description = "GPS Route Analysis Assignment"
+requires-python = ">=3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
